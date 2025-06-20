@@ -1,6 +1,6 @@
 # Hi, I'm Yousif Ahmed
 
-## Aspiring Data Analyst | Data Science Enthusiast | SQL | Power BI | Tableau | Excel
+## Junior Data Analyst | SQL, Python, BI Concepts | Insight-Driven & Business-Focused Thinker
 
 ---
 
